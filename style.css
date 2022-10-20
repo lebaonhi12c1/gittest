@@ -1,4 +1,8 @@
 .header{
-    color: red;
-    font-size: 25px;
+    font-size: 30px;
+    color: green;
+}
+.sub__header{
+    color: yellow;
+    font-style: italic;
 }
